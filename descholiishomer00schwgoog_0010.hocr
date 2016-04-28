@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./descholiishomer00schwgoog_0010.png"; bbox 0 0 3086 5124; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 45 1844 1188 2022">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 45 1844 1188 2030">
+     <span class='ocr_line' id='line_1_1' title="bbox 45 1844 1188 2022; baseline 0.001 -56"><span class='ocrx_word' id='word_1_1' title='bbox 45 2011 49 2022; x_wconf 90' lang='lat'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 309 1845 683 1967; x_wconf 82' lang='lat' dir='ltr'>SOHOLHS</span> <span class='ocrx_word' id='word_1_3' title='bbox 726 1844 1188 1967; x_wconf 79' lang='lat' dir='ltr'>HOMERIOIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 46 2340 1331 2429">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 46 2340 1331 2429">
+     <span class='ocr_line' id='line_1_2' title="bbox 46 2340 1331 2429; baseline -0.001 0"><span class='ocrx_word' id='word_1_4' title='bbox 46 2344 49 2353; x_wconf 75' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 161 2341 486 2429; x_wconf 80' lang='lat' dir='ltr'>HISTORIAM</span> <span class='ocrx_word' id='word_1_6' title='bbox 503 2340 857 2425; x_wconf 80' lang='lat' dir='ltr'><strong>FABVLAREM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 875 2341 1331 2428; x_wconf 78' lang='lat' dir='ltr'>PERTINENTIBVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 444 2972 1048 3043">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 444 2972 1048 3043">
+     <span class='ocr_line' id='line_1_3' title="bbox 444 2972 1048 3043; baseline -0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 444 2973 731 3042; x_wconf 79' lang='lat' dir='ltr'><strong>EDVARDVS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 759 2972 1048 3043; x_wconf 72' lang='lat' dir='ltr'>soflwfflz</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1548 5124">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1548 5124">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1548 5124; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1548 5124; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
